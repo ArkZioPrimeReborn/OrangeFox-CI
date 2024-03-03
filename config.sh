@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_12.1"
+export DT_LINK="https://github.com/ProjectRubens/device_xiaomi_rubens-TWRP.git -b TWRP-12.1_5.10.168"
 
 export DEVICE="rubens"
 export OEM="xiaomi"
